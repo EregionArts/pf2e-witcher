@@ -1,0 +1,67 @@
+{
+  "WITCHER.Item": "A particular item commonly associated with those of the Witcher profession.",
+  
+  "WITCHER.Feat.Flourish.Bear.TEXT_ONE":"The target becomes @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} instead of off-guard and is pushed back 5 ft as though under the effects of a @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731].",
+  
+  "WITCHER.Feat.Flourish.Bear.TEXT_TWO":"Should you critically succeed on your strike, the target is shoved by 10ft as though under the effects of a critical @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]",
+  
+  "WITCHER.Feat.Flourish.Griffin.TEXT_ONE":"You may now cast signs with the Augmented trait as a component of @UUID[Compendium.pf2e-witcher.witcher-class.Item.mHWN124elnJnHURG].",
+  
+  "WITCHER.Feat.Flourish.Griffin.TEXT_TWO":"Furthermore, should this strike succeed, you may inflict an additional 2d6 damage matching the sign you cast as part of the strike.",
+  
+  "WITCHER.Feat.Flourish.Manticore.TEXT":"Each strike inflicted by Thrashing Guard results in a unique effect:",
+  
+  "WITCHER.Feat.Flourish.Manticore.SHIELD":"Should this strike prove successful, you may push the creature back 5ft, or 10ft upon a critical strike.",
+  
+  "WITCHER.Feat.Flourish.Manticore.SCHOOL_WEAPON":"Should this strike prove successful, you may reposition the creature by 5ft, or 10ft upon a critical strike.",
+  
+  "WITCHER.Feat.Flourish.Viper.TEXT":"Should you successfully perform a @UUID[Compendium.pf2e-witcher.witcher-class.Item.Omv3arqxuFBdokCc]{Blindside} strike, the target gains weakness 5 to your choice of bludgeoning, piercing, or slashing damage from any source until the end of your next turn. If you critically succeed, the target instead gains weakness 10.",
+  
+  "WITCHER.Feat.Flourish.Viper.EFFECT":"@UUID[Compendium.pf2e-witcher.witcher-class.Item.xPlcezhGiuCRsyNg]",
+  
+  "WITCHER.Sign.Aard.Shockwave.SUCCESS":"**Success** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} condition.",
+
+  "WITCHER.Sign.Aard.Shockwave.FAILURE":"**Failure** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} condition.",
+
+  "WITCHER.Sign.Aard.Shockwave.CRITICAL_FAILURE":"**Critical Failure** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} condition.",
+
+  "WITCHER.Sign.Aard.Shockwave.TEXT":"Regardless of the result, the area of effect becomes difficult terrain for 1d4 rounds.",
+
+  "WITCHER.Sign.Axii.Domination.FAILURE":"**Failure** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} condition.",
+
+  "WITCHER.Sign.Axii.Domination.CRITICAL_FAILURE":"**Critical Failure** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} or @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2} condition should you possess @UUID[Compendium.pf2e-witcher.witcher-class.Item.66chv4diTokiXlNJ]{Axii | Puppet}.",
+  
+  "WITCHER.Sign.Heliotrope.Resilience.EFFECT":"@UUID[Compendium.pf2e-witcher.witcher-class.Item.Q20pp8NP7JDqPA86]",
+  
+  "WITCHER.Sign.Igni.MeltArmour.SUCCESS":"**Success** The target suffers a -1 status penalty to their AC for 1 round.",
+
+  "WITCHER.Sign.Igni.MeltArmour.FAILURE":"**Failure** The target suffers a -2 status penalty to their AC for 1 round.",
+
+  "WITCHER.Sign.Igni.MeltArmour.CRITICAL_FAILURE":"**Critical Failure** As failure except that the duration increases by 1 round.",
+
+  "WITCHER.Sign.Igni.MeltArmour.TEXT":"Regardless of the results, the damage die produced by either sign increases by one category.",
+
+  "WITCHER.Sign.Igni.MeltArmour.EFFECT":"@UUID[Compendium.pf2e-witcher.witcher-class.Item.xdSaTGx9G6iU0sCH]",
+  
+  "WITCHER.Sign.Quen.Ward.TEXT":"You conjure a magical field of force in a 5ft emanation from yourself, granting all allies within the area a +2 circumstance bonus to their AC until the start of your next turn.",
+
+  "WITCHER.Sign.Quen.Ward.EFFECT":"@UUID[Compendium.pf2e-witcher.witcher-class.Item.gVRiSB25DWnwzSBJ]",
+  
+  "WITCHER.Sign.Yrden.Rupture.SUCCESS":"**Success** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} condition.",
+
+  "WITCHER.Sign.Yrden.Rupture.FAILURE":"**Failure** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} condition.",
+
+  "WITCHER.Sign.Yrden.Rupture.CRITICAL_FAILURE":"**Critical Failure** The creature gains the @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3} condition.",
+  
+  "WITCHER.Trait.Adrenaline.Base": "An denotation that this item interacts with the mechanics of adrenaline.",
+  
+  "WITCHER.Trait.Adrenaline.Cost": "A Visual indicator of the amount of adrenaline points needed for this particular item",
+  
+  "WITCHER.Trait.Amplified": "Signs marked with this trait ",
+  
+  "WITCHER.Trait.Oil": "<p>An alchemical tool favoured by many witchers, it increases damage dealt against a particular opponent type.</p>",
+  
+  "WITCHER.Trait.Sign": "<p>A sign is unique cantrip bestowed upon a Witcher through years of dedicated learning and practice.</p><p>Spells identified with this trait prove taxing to cast and thus, are limited to a single casting each turn, except as a reaction.</p><p>Unless otherwise noted, spells with this trait always cost a single point of adrenaline to cast.</p>",
+  
+  "WITCHER.Trait.Toxicity": "<p>Alchemical items created with this trait are naturally toxic to all but the most extreme constitutions. Witchers as a rule are far more resistant to its effects and can ignore a certain number of points of toxicity each day.</p>"
+}
