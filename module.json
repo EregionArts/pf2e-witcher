@@ -9,7 +9,8 @@
   "authors": [
     {
       "name": "Eregion Arts",
-      "url": "https://patreon.com/EregionArts?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
+      "url": "https://patreon.com/EregionArts?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "flags":{}
     }
   ],  
   "description": "A comprehensive Witcher class developed by the Eregion Arts team based of works by Andrzej Sapkowski and CD Projekt Red",
