@@ -11,7 +11,10 @@
       "name": "Eregion Arts",
       "url": "https://patreon.com/EregionArts?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
     }
-  ],
+  ],  
+  "url": "https://github.com/EregionArts/pf2e-witcher",
+  "manifest": "https://raw.githubusercontent.com/EregionArts/pf2e-witcher/main/module.json",
+  "download": "https://github.com/EregionArts/pf2e-witcher/archive/refs/heads/main.zip",
   "styles": [
     "styles/witcher.css"
   ],
