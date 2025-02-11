@@ -7,4 +7,4 @@
 
 <hr>
 <h2>Attributions</h2>
-The major of the artwork was sourced from <a href="https://game-icons.net">game-icons.net</a> with the rest being custom made by the Eregion Arts team.
+The majority of the artwork used was sourced from <a href="https://game-icons.net">game-icons.net</a> with the rest being custom made by the Eregion Arts team.
