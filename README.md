@@ -4,3 +4,7 @@
 <p></p>This module is still in beta as we wish to have the community test it thoroughly before declaring it properly finished. That said this is fully functional module from code to art and design. Please comment with any suggestions you have for the module.</p>
 <p>To Do:<br>
 -Create a Witcher Archetype</p>
+
+<hr>
+<h2>Attributions</h2>
+The major of the artwork was sourced from <a href="https://game-icons.net">game-icons.net</a> with the rest being custom made by the Eregion Arts team.
