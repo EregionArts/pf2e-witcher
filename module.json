@@ -1,0 +1,257 @@
+{
+  "id": "pf2e-witcher",
+  "title": "PF2E - Witcher",
+  "version": "1.0.0-beta",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Eregion Arts",
+      "url": "https://patreon.com/EregionArts?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
+    }
+  ],
+  "styles": [
+    "styles/witcher.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "esmodules": [
+    "scripts/witcher.mjs"
+  ],
+  "flags": {
+    "pf2e-witcher": {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "harvestable": "Harvestable",
+          "witcher": "Witcher"
+        },
+        "damageTypes": {
+          "diseaseAlt": {
+            "label": "Disease",
+            "category": "physical",
+            "icon": "fa-disease"
+          },
+          "oil": {
+            "label": "Oil",
+            "category": "physical",
+            "icon": "fa-flask-round-potion"
+          },
+          "toxicity": {
+            "label": "Toxicity",
+            "category": "physical",
+            "icon": "fa-skull-crossbones"
+          }
+        },
+        "equipmentTraits": {
+          "capacity-1": {
+            "label": "Capacity 1",
+            "description": "This trait denotes the amount in Light Bulk that can be stored."
+          },
+          "capacity-2": {
+            "label": "Capacity 2",
+            "description": "This trait denotes the amount in Light Bulk that can be stored."
+          },
+          "capacity-3": {
+            "label": "Capacity 3",
+            "description": "This trait denotes the amount in Light Bulk that can be stored."
+          },
+          "capacity-4": {
+            "label": "Capacity 4",
+            "description": "This trait denotes the amount in Light Bulk that can be stored."
+          },
+          "harvestable": {
+            "label": "Harvestable",
+            "description": "A harvestable portion from a monster"
+          },
+          "toxicity-1": {
+            "label": "Toxicity 1",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-2": {
+            "label": "Toxicity 2",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-3": {
+            "label": "Toxicity 3",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-4": {
+            "label": "Toxicity 4",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-5": {
+            "label": "Toxicity 5",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "witcher": {
+            "label": "Witcher",
+            "description": "WITCHER.Item"
+          }
+        },
+        "featTraits": {
+          "adrenaline": {
+            "label": "Adrenaline",
+            "description": "WITCHER.Trait.Adrenaline.Base"
+          },
+          "adrenaline-1": {
+            "label": "Adrenaline 1",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-2": {
+            "label": "Adrenaline 2",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-3": {
+            "label": "Adrenaline 3",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-4": {
+            "label": "Adrenaline 4",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-5": {
+            "label": "Adrenaline 5",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "augmented": "Augmented",
+          "mutation": "Mutation",
+          "sign": {
+            "label": "Sign",
+            "description": "WITCHER.Trait.Sign"
+          },
+          "toxicity-1": {
+            "label": "Toxicity 1",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-2": {
+            "label": "Toxicity 2",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-3": {
+            "label": "Toxicity 3",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-4": {
+            "label": "Toxicity 4",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "toxicity-5": {
+            "label": "Toxicity 5",
+            "description": "WITCHER.Trait.Toxicity"
+          },
+          "witcher": "Witcher"
+        },
+        "spellTraits": {
+          "adrenaline": {
+            "label": "Adrenaline",
+            "description": "WITCHER.Trait.Adrenaline.Base"
+          },
+          "adrenaline-1": {
+            "label": "Adrenaline 1",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-2": {
+            "label": "Adrenaline 2",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-3": {
+            "label": "Adrenaline 3",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-4": {
+            "label": "Adrenaline 4",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "adrenaline-5": {
+            "label": "Adrenaline 5",
+            "description": "WITCHER.Trait.Adrenaline.Cost"
+          },
+          "augmented": "Augmented",
+          "sign": {
+            "label": "Sign",
+            "description": "WITCHER.Trait.Sign"
+          },
+          "witcher": "Witcher"
+        },
+        "weaponTraits": {
+          "witcher": {
+            "label": "Witcher",
+            "description": "A particular item commonly associated with those of the Witcher profession."
+          }
+        }
+      }
+    }
+  },
+  "packs": [
+    {
+      "label": "Bestiary",
+      "type": "Actor",
+      "name": "witcher-bestiary",
+      "path": "./packs/witcher-bestiary",
+      "system": "pf2e",
+      "package": "pf2e-witcher",
+      "banner": "modules/pf2e-witcher/assets/banners/bestiary.webp",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Class",
+      "type": "Item",
+      "name": "witcher-class",
+      "path": "./packs/witcher-class",
+      "system": "pf2e",
+      "package": "pf2e-witcher",
+      "banner": "modules/pf2e-witcher/assets/banners/class.webp",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Misc.",
+      "type": "Item",
+      "name": "witcher-misc",
+      "path": "./packs/witcher-misc",
+      "system": "pf2e",
+      "package": "pf2e-witcher",
+      "banner": "modules/pf2e-witcher/assets/banners/misc.webp",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Guide",
+      "type": "JournalEntry",
+      "name": "witcher-guide",
+      "path": "./packs/witcher-guide",
+      "system": "pf2e",
+      "package": "pf2e-witcher",
+      "banner": "modules/pf2e-witcher/assets/banners/guide.webp",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Pf2e Witcher",
+      "sorting": "m",
+      "packs": [
+        "witcher-class",
+        "witcher-guide",
+        "witcher-misc"
+      ]
+    }
+  ]
+}
